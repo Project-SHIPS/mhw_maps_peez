@@ -18,7 +18,7 @@ The analysis is based on the sea surface temperature anomalies that are more tha
 
 ## Data Source:
 
-This analysis used the daily Global Ocean OSTIA Sea Surface Temperature and Sea Ice Reprocessed dataset from the Copernicus Marine Service covering the period January 1, 1982 to December 31m 2021 with 0.05 deg x 0.05 deg spatial resolution.
+This analysis used the daily Global Ocean OSTIA Sea Surface Temperature and Sea Ice Reprocessed dataset from the Copernicus Marine Service covering the period January 1, 1982 to December 31, 2021 with 0.05 deg x 0.05 deg spatial resolution.
 
 ## Acknowledgement: 
 
