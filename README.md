@@ -1,4 +1,4 @@
-# Hotspots of Marine Heatwaves in the Philippines
+# Marine Heatwaves Hotspots within Philippine Economic Exclusive Zone (PEEZ)
 
 This repository hosts maps depicting the hotspots of various metrics of marine heatwaves within the Philippine Economic Exclusive Zone (PEEZ).
 
