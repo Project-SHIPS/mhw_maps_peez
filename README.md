@@ -22,7 +22,7 @@ This analysis used the daily Global Ocean OSTIA Sea Surface Temperature and Sea 
 
 ## Acknowledgement: 
 
-These maps are one of the outputs of the project SHIPS (Survey of Heatwaves in the Philippine Seas) implemented by University of the Philippines Cebu. This project was funded by Department of Science and Technology (DOST) - Philippine Council for Industry, Energy, and Emerging Technology Research and Development (PCIEERD). 
+These maps are outputs of the project SHIPS (Survey of Heatwaves in the Philippine Seas) implemented by University of the Philippines Cebu. This project was funded by Department of Science and Technology (DOST) - Philippine Council for Industry, Energy, and Emerging Technology Research and Development (PCIEERD). 
 
 
 
